@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  - I'm Osiris! A passionate Data Science student from Brazil.
+  - I'm Osiris! A Data Engineer from Brazil.
 </p>
 </p>
   - I am a Systems Analysis and Development graduated who is fascinated by Data, Automations and AI.
@@ -17,7 +17,7 @@
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
-Data and Automation Professional, recently graduated in Systems Analysis and Development with experience in collection, integration, manipulation, ingestion and storage of data, RPA development, Web Scraping and ETL processes using agile methodologies. Pre-advanced English level and a lot of curiosity to achieve new goals.
+Data and Automation Professional, graduated in Systems Analysis and Development with experience in collection, integration, manipulation, ingestion and storage of data, RPA development, Web Scraping and ETL processes using agile methodologies. Advanced English level and a lot of curiosity to achieve new goals.
 Driven by new challenges and new technologies, collaborating with all teams and stakeholders of all levels and roles. Committed to operational excellence and innovation, constantly seeking opportunities to improve processes and add value to the business.
 </details>
 
